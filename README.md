@@ -7,29 +7,32 @@ Geology Module Task Group
 https://www.specifysoftware.org/specify-6-schema/
 https://files.specifysoftware.org/schema.html
 
-## Mineralogy
-IMA Database of Mineral Properties
+## Mineralogy and Classifications
+IMA Database of Mineral Properties  
 https://rruff.info/ima/
 
-IMA List of Minerals 2021
+IMA List of Minerals 2021  
 http://cnmnc.main.jp/
 
-Dana Classification System
+Dana Classification System  
 http://www.webmineral.com/danaclass.shtml#.YFoc9_lKhPY
 
-Nickel Strunz Classification
+Nickel Strunz Classification  
 https://www.mindat.org/strunz.php
 http://webmineral.com/strunz.shtml#.YFoduPlKhPY
 http://webmineral.com/strunz/strunz.php#.YFoeTvlKhPY
 
-Nickel Strunz Sunburst Visualization
+Nickel Strunz Sunburst Visualization  
 https://liubomyrgavryliv.github.io/d3-NS-sunburst-webpack/
 
-Crystallography Open Database
+Crystallography Open Database  
 http://www.crystallography.net/cod/
 
-Mineral Classification Discussions
+Mineral Classification Discussions  
 https://pubs.geoscienceworld.org/eurjmin/article/21/5/1073/69407/the-standardisation-of-mineral-group-hierarchies
+
+BGS Rock Classification System  
+https://www.bgs.ac.uk/technologies/bgs-rock-classification-scheme/
 
 ## Gelogical Collections Data Portals
 NMNH Geology Collections Data Portal
