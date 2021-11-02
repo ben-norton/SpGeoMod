@@ -1,5 +1,5 @@
-## North Carolina Museum of Natural Sciences 
 ## Geology Collection Database Dictionary
+### North Carolina Museum of Natural Sciences 
 
 The NCMNS Geology Collection Database is a Microsoft Access-based application. The system is divided into two components using a split architectural design, allowing multiple people to simultaneously interact with the underlying data. The "code file" contains front-end logic, including all form and report objects. Underlying the front-end is a 'code file' that stores all the collections data in a centrally located file storage device.   
   
