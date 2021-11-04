@@ -4,11 +4,6 @@ Purpose:
 2. Develop technological tools and resources to support Geology and Mineralogy Collections (e.g., APIs)
 3. Create a conceptual framework and proposal for a Geology Collection Module to extend the Collections Management Software, Specify.
 
-## Specify Resources
-### Specify 6 Schema
-https://www.specifysoftware.org/specify-6-schema/
-https://files.specifysoftware.org/schema.html
-
 ## Mineralogy and Classifications
 IMA Database of Mineral Properties  
 https://rruff.info/ima/
@@ -67,3 +62,8 @@ https://www.ga.gov.au/data-pubs/datastandards/cataloguestandard
 | ABCDEFG.xsd	| https://efg.geocase.eu/documentation/html/efg.html |
 | Darwin Core | http://rs.tdwg.org/dwc/dwcrecord/ |
 | | http://rs.tdwg.org/dwc/xsd/simpledarwincore/ |
+  
+## Specify Resources
+### Specify 6 Schema
+https://www.specifysoftware.org/specify-6-schema/
+https://files.specifysoftware.org/schema.html
