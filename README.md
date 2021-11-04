@@ -1,6 +1,8 @@
 # SpGeoMod
-Geology Module Task Group
-
+Purpose:
+1. Establish a Mineralogy Collection Digitization Standard
+2. Develop technological tools and resources to support Geology and Mineralogy Collections (e.g., APIs)
+3. Create a conceptual framework and proposal for a Geology Collection Module to extend the Collections Management Software, Specify.
 
 ## Specify Resources
 ### Specify 6 Schema
