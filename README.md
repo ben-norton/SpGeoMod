@@ -32,6 +32,9 @@ BGS Rock Classification System
 https://www.bgs.ac.uk/technologies/bgs-rock-classification-scheme/
 
 ## Geological Vocabularies and Standards
+EarthRef Vocabularies  
+https://www2.earthref.org/vocabularies/controlled  
+  
 Geoscience Terminology Working Group  
 https://cgi-iugs.org/project/geoscienceterminology/  
   
