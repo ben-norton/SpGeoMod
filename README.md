@@ -31,6 +31,13 @@ https://pubs.geoscienceworld.org/eurjmin/article/21/5/1073/69407/the-standardisa
 BGS Rock Classification System  
 https://www.bgs.ac.uk/technologies/bgs-rock-classification-scheme/
 
+## Geological Vocabularies and Standards
+Geoscience Terminology Working Group  
+https://cgi-iugs.org/project/geoscienceterminology/  
+  
+IUGS Commission for the Management and Application of Geoscience Information  
+https://cgi-iugs.org/  
+  
 ## Gelogical Collections Data Portals
 NMNH Geology Collections Data Portal
 https://geogallery.si.edu/portal
@@ -47,6 +54,8 @@ http://www2.bgs.ac.uk/discoveryMetadata/
 
 Geoscience Australia - Catalogue Standard
 https://www.ga.gov.au/data-pubs/datastandards/cataloguestandard
+
+
 
 ## Schemas
 | Schema | URL |
