@@ -42,12 +42,12 @@ IUGS Commission for the Management and Application of Geoscience Information
 https://cgi-iugs.org/  
   
 ## Gelogical Collections Data Portals
-NMNH Geology Collections Data Portal
-https://geogallery.si.edu/portal
+NMNH Geology Collections Data Portal  
+https://geogallery.si.edu/portal  
 
-GeoCASe 2.0
-https://geocase.eu/
-https://github.com/geocollections/geocase-ui
+GeoCASe 2.0  
+https://geocase.eu/  
+https://github.com/geocollections/geocase-ui  
 
 GeoCASe 1.0
 https://old.geocase.eu/
@@ -57,8 +57,6 @@ http://www2.bgs.ac.uk/discoveryMetadata/
 
 Geoscience Australia - Catalogue Standard
 https://www.ga.gov.au/data-pubs/datastandards/cataloguestandard
-
-
 
 ## Schemas
 | Schema | URL |
