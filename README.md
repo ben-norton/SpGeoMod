@@ -49,15 +49,15 @@ GeoCASe 2.0
 https://geocase.eu/  
 https://github.com/geocollections/geocase-ui  
 
-GeoCASe 1.0
-https://old.geocase.eu/
+GeoCASe 1.0  
+https://old.geocase.eu/  
 
-British Geological Survey - Data Catalogue
-http://www2.bgs.ac.uk/discoveryMetadata/
+British Geological Survey - Data Catalogue  
+http://www2.bgs.ac.uk/discoveryMetadata/  
 
-Geoscience Australia - Catalogue Standard
-https://www.ga.gov.au/data-pubs/datastandards/cataloguestandard
-
+Geoscience Australia - Catalogue Standard  
+https://www.ga.gov.au/data-pubs/datastandards/cataloguestandard  
+  
 ## Schemas
 | Schema | URL |
 | ------ | --- |
